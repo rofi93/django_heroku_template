@@ -1,0 +1,6 @@
+brown
+conll2000
+movie_reviews
+wordnet
+punkt
+averaged_perceptron_tagger
